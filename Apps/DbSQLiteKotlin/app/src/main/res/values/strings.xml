@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DbSQLiteKotlin</string>
+
+    <string name="telainicial_titulo">Lista de Contatos</string>
+
+    <string name="menu_novo_contato">Novo Contato</string>
+
+    <string name="detalhes_titulo">Detalhes do Contato</string>
+    <string name="detalhes_rotulo_codigo">Codigo</string>
+    <string name="detalhes_rotulo_nome">Nome</string>
+    <string name="detalhes_rotulo_telefone">Telefone</string>
+    <string name="detalhes_rotulo_idade">Idade</string>
+    <string name="detalhes_rotulo_btn_apagar">Apagar</string>
+    <string name="detalhes_rotulo_btn_salvar">Salvar</string>
+
+    <string name="detalhes_alerta_erro_validacao">Erro: Validacao</string>
+    <string name="detalhes_alerta_erro_nome_obrigatorio">Erro: Nome é obrigatorio!!!</string>
+    <string name="detalhes_alerta_erro_telefone_obrigatorio">Erro: Telefone é obrigatorio!!!</string>
+    <string name="detalhes_alerta_erro_idade_invalida">Erro: Idade Invalida!!!</string>
+    <string name="detalhes_alerta_titulo_salvar_contato">Salvamento de Contato</string>
+    <string name="detalhes_alerta_mensagem_salvar_contato">Contato Salvo com Sucesso!!!</string>
+    <string name="detalhes_alerta_rotulo_btn_ok">Ok</string>
+    <string name="detalhes_alerta_titulo_sair">Saida Cadastro</string>
+    <string name="detalhes_alerta_mensagem_sair">Deseja Realmente Sair</string>
+    <string name="detalhes_alerta_rotulo_btn_sim">Sim</string>
+    <string name="detalhes_alerta_rotulo_btn_nao">Nao</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CardViewApp</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_add_favourite">Adicionar aos Favoritos</string>
+    <string name="action_play_next">Adcionar a Fila</string>
+    <string name="backdrop_title">ROCK NA VEIA</string>
+    <string name="backdrop_subtitle">Alguns Albuns Classicos que Todos Deveriam Ouvir</string>
+</resources>
